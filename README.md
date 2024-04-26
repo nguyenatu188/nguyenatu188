@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Anh Tú</h1>
 <h3 align="center">An intern developer from VietNam</h3>
 
+![welcome](https://github.com/nguyenatu188/nguyenatu188/assets/114668947/8822dd05-c196-47ed-9e57-f84f08cd748b)
+
+
 - 📫 How to reach me **nnguyentu13@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
